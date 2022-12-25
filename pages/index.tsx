@@ -36,7 +36,7 @@ const Home: React.FC<AllPostsData> = (props) => {
           <title>{siteTitle}</title>
         </Head>
         <section className={utilStyle.headingMd}>
-          <p>私は、フロントエンドエンジニア１年目です</p>
+          <p>私は、フロントエンドエンジニア１年目です。よろしくおねがいします。</p>
         </section>
         <section className={`${utilStyle.headingMd} ${utilStyle.padding1px}`}>
           <h2 className="">✍　エンジニアのブログ</h2>
